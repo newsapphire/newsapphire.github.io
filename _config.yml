@@ -36,7 +36,7 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/newsapphire # change to your twitter homepage
+    - https://twitter.com/newsapphire2018 # change to your twitter homepage
     - https://github.com/newsapphire # change to your github homepage
 
 google_site_verification: # fill in to your verification string
